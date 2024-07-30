@@ -1,4 +1,5 @@
-baseURL = 'https://zouxc.github.io/'
+
+baseURL = 'https://zouxc.github.io/
 languageCode = 'en-us'
 title = 'Lifebytes'
 theme = 'ananke'
